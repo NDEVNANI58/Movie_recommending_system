@@ -14,4 +14,4 @@ Steps to run the system
  #
  3 A new page will be opened on your browser. Select movie for which you want recommendation and click on recommend
  #
- 4 You will get highest similar movies. 
+ 4 You will get 4 highest similar movies. 
